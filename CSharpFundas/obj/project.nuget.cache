@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQ27wioLypEmV26E5VdZtdW+kXph7vt+tQH22eFC8ZLTWjpXl2YG9zmk3y0M/VTGKO76/HLBoLWA9kuCKbX2ag==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\CSharpFundas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClassesAndMethods.cs" />
+    <None Include="ClassesAndMethods.cs" />
+    <Compile Remove="Variables.cs" />
+    <None Include="Variables.cs" />
+    <Compile Remove="InheritanceParent.cs" />
+    <None Include="InheritanceParent.cs" />
+    <Compile Remove="InheritanceChild.cs" />
+    <None Include="InheritanceChild.cs" />
+    <Compile Remove="ConstructorsAndThisKeyword.cs" />
+    <None Include="ConstructorsAndThisKeyword.cs" />
+    <Compile Remove="Arrays.cs" />
+    <None Include="Arrays.cs" />
+  </ItemGroup>
+
+</Project>
