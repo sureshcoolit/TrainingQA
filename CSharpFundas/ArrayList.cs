@@ -23,5 +23,3 @@ foreach (string item in a)
 {
     Console.WriteLine(item);
 }
-
-Console.WriteLine("Neelima");
