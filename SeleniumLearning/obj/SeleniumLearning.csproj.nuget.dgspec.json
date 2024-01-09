@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\CSharpFundas\\SeleniumLearning\\SeleniumLearning.csproj": {}
+    "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\CSharpFundas\\SeleniumLearning\\SeleniumLearning.csproj": {
+    "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\CSharpFundas\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectUniqueName": "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj",
         "projectName": "SeleniumLearning",
-        "projectPath": "C:\\MyProjects\\CSharpFundas\\SeleniumLearning\\SeleniumLearning.csproj",
+        "projectPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj",
         "packagesPath": "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\CSharpFundas\\SeleniumLearning\\obj\\",
+        "outputPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ra_Neelima.Bathula\\AppData\\Roaming\\NuGet\\NuGet.Config",

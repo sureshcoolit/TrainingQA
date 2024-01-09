@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\CSharpFundas.csproj": {}
+    "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\CSharpFundas.csproj": {
+    "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\CSharpFundas.csproj",
+        "projectUniqueName": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
         "projectName": "CSharpFundas",
-        "projectPath": "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\CSharpFundas.csproj",
+        "projectPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
         "packagesPath": "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\CSharpFundas\\CSharpFundas\\obj\\",
+        "outputPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ra_Neelima.Bathula\\AppData\\Roaming\\NuGet\\NuGet.Config",
