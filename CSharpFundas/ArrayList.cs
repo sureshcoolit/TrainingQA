@@ -26,3 +26,5 @@ foreach (string item in a)
 
 int i=10;
 Console.WriteLine(i);
+
+Console.WriteLine("Welcome to the Github session");
