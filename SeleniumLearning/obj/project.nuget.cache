@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oI+blcEZupdrCFBoGAkiT10upW9Q2xQm5+wODPxiiLZ3fkbplq5cpaUE6IbpdXllzbokz/wqRdTDPbVVx/UEXw==",
+  "dgSpecHash": "6h26Cux9f4sO4PpAL6UEXmMTln7B1eyrE5RoLbPzPpOjWGG0B4SCSFE3pLgV/eamF8/I3l1Gax/F8N5/xUC18Q==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj",
+  "projectFilePath": "C:\\MyProjects\\SampleTrainingProject\\TrainingQA\\SeleniumLearning\\SeleniumLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
     "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

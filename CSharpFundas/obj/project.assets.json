@@ -150,11 +150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
+      "projectUniqueName": "C:\\MyProjects\\SampleTrainingProject\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
       "projectName": "CSharpFundas",
-      "projectPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
+      "projectPath": "C:\\MyProjects\\SampleTrainingProject\\TrainingQA\\CSharpFundas\\CSharpFundas.csproj",
       "packagesPath": "C:\\Users\\ra_Neelima.Bathula\\.nuget\\packages\\",
-      "outputPath": "C:\\MyProjects\\Git_Sample\\TrainingQA\\CSharpFundas\\obj\\",
+      "outputPath": "C:\\MyProjects\\SampleTrainingProject\\TrainingQA\\CSharpFundas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ra_Neelima.Bathula\\AppData\\Roaming\\NuGet\\NuGet.Config",
